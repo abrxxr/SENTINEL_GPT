@@ -1,0 +1,9 @@
+fastapi==0.115.0
+uvicorn==0.30.0
+sqlalchemy==2.0.30
+aiohttp==3.10.0
+python-dateutil==2.9.0
+textblob==0.18.0
+nltk==3.9.1
+pydantic==2.8.0
+sse-starlette==2.1.0
